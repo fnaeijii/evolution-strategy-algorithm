@@ -1,0 +1,107 @@
+﻿  Hardware.cpp
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(41,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Hardware.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Hardware.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(62,18): error C2059: syntax error: '.'
+  (compiling source file 'Hardware.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(63,26): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'Hardware.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(67,24): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'Hardware.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(93,12): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'Hardware.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(98,37): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Hardware.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(10,25): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(12,29): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(14,27): error C2059: syntax error: '['
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(14,68): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(15,24): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(16,33): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(16,28): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(17,30): error C2760: syntax error: '+' was unexpected here; expected ','
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(17,32): error C2143: syntax error: missing ']' before 'constant'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(17,32): error C2059: syntax error: 'constant'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(29,32): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(34,26): error C2760: syntax error: '+' was unexpected here; expected ','
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(34,28): error C2143: syntax error: missing ']' before 'constant'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(34,28): error C2059: syntax error: 'constant'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(52,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(64,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(69,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(70,25): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(72,27): error C2059: syntax error: '['
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(72,71): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(73,30): error C2059: syntax error: '.'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(77,27): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(79,31): error C2059: syntax error: '['
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(79,49): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fatemeh\Desktop\ProjectHS\Hardware.cpp(80,34): error C2059: syntax error: '.'
+  Software.cpp
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(41,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Software.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Software.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(62,18): error C2059: syntax error: '.'
+  (compiling source file 'Software.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(63,26): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'Software.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(67,24): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'Software.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(93,12): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'Software.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(98,37): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Software.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(5,25): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(8,56): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(10,22): error C2059: syntax error: '.'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(23,24): error C2760: syntax error: 'constant' was unexpected here; expected 'id-expression'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(23,26): error C2059: syntax error: '.'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(24,24): error C2760: syntax error: 'constant' was unexpected here; expected 'id-expression'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(24,26): error C2059: syntax error: '.'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(27,24): error C2760: syntax error: 'constant' was unexpected here; expected 'id-expression'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(27,26): error C2059: syntax error: '.'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(28,24): error C2760: syntax error: 'constant' was unexpected here; expected 'id-expression'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(28,26): error C2059: syntax error: '.'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(39,19): error C2275: 'Chromosome::population': expected an expression instead of a type
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(59,22): error C2059: syntax error: '.'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(59,36): error C2143: syntax error: missing ';' before '{'
+C:\Users\Fatemeh\Desktop\ProjectHS\Software.cpp(61,19): error C2059: syntax error: '.'
+  main.cpp
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(41,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(62,18): error C2059: syntax error: '.'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(63,26): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'main.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(67,24): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'main.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(93,12): error C2275: 'Chromosome::population': expected an expression instead of a type
+  (compiling source file 'main.cpp')
+  
+C:\Users\Fatemeh\Desktop\ProjectHS\Chromosome.h(98,37): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
